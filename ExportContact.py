@@ -9,10 +9,10 @@ import getpass
 import base64,os,click,datetime,time
 
 # Telegram information conection
-api_id = 1234564
-api_hash = "api_hash"
+api_id = 10373073
+api_hash = "3da049f698489d1092ead10b27387115"
 name = "CSV_contact_maker_for_phone"
-phone = 989120000000
+phone = 79272367475
 
 
 PhotoVCF = click.prompt('[1] Do you need your contact photo', default= "yes" , type =bool)
